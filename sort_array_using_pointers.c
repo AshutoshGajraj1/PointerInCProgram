@@ -3,7 +3,7 @@ int main(){
     
     int a[10], i, j, temp;
     int *p;
-    p = &a[0];
+    p = &a[0];                                  // p is address of a and *p points to the value stored at address p 
 
     printf("Enter the elements of array:");
     for(i = 0; i<10; i++){
