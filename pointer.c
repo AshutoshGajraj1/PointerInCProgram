@@ -7,7 +7,7 @@ int main(){
         scanf("%d", a+i);
     }
      
-    printf("The array is :\n");
+    printf("The array is ==\n");        //yguyguyg
     for(int i = 0; i<5; ++i){
         printf("%d\t", a[i]);
     }
